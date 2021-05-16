@@ -1,7 +1,7 @@
 Recipe App made with the help of EDAMAM api.
 Functionality:-
 1. Shows 20 different recipes based on the input of the user.
-2. user can enter either the ingredient name or dish name.
+2. User can enter either the ingredient name or dish name.
 
 Installation:-
 1. npm install
